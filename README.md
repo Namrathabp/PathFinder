@@ -42,7 +42,8 @@ Left Click,"Place Start (Green), End (Red), or Walls (Black)"
 Right Click,Erase nodes
 SPACE Bar,Run the visualization
 C Key,Clear board / Reset
-<img width="754" height="851" alt="image" src="https://github.com/user-attachments/assets/74e4e5ff-0d0d-428a-8d3e-2cfa67725ca7" />
+
+<img width="250" height="359" alt="image" src="https://github.com/user-attachments/assets/74e4e5ff-0d0d-428a-8d3e-2cfa67725ca7" />
 
 🧪 Running TestsThis project follows "Test-Driven Development" (TDD) principles. To verify the pathfinding logic without the GUI:Bashpytest
 
